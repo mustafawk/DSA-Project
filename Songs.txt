@@ -1,0 +1,151 @@
+150
+1 Garaj Baras, Ali Azmat & Rahat Fateh Ali Khan, 280
+2 Na Re Na, Ali Azmat, 198
+3 Pasoori, Ali Sethi & Shae Gill, 329
+4 Sayonnee, Junoon, 329
+5 Larsha Pekhawar, Ali Zafar, 354
+6 Dil Diyan Gallan, Atif Aslam, 200
+7 Na Re Na, Ali Azmat, 244
+8 Na Re Na, Ali Azmat, 356
+9 Larsha Pekhawar, Ali Zafar, 245
+10 Bekhayali, Sachet Tandon, 197
+11 Larsha Pekhawar, Ali Zafar, 217
+12 Baari, Bilal Saeed & Momina Mustehsan, 326
+13 Peechay Hutt, Hasan Raheem & Justin Bibis, 322
+14 Dil Diyan Gallan, Atif Aslam, 315
+15 Kahani Suno, Kaifi Khalil, 299
+16 Sayonnee, Junoon, 309
+17 Chal Dil Mere, Ali Zafar, 289
+18 Roiyaan, Farhan Saeed, 241
+19 Baari, Bilal Saeed & Momina Mustehsan, 261
+20 Tajdar-e-Haram, Atif Aslam, 253
+21 Tu Jhoom, Abida Parveen & Naseebo Lal, 225
+22 Bekhayali, Sachet Tandon, 310
+23 Afsanay, Young Stunners, 332
+24 Tu Jhoom, Abida Parveen & Naseebo Lal, 292
+25 Tajdar-e-Haram, Atif Aslam, 270
+26 Kahani Suno, Kaifi Khalil, 318
+27 Na Re Na, Ali Azmat, 262
+28 Kahani Suno, Kaifi Khalil, 254
+29 Tu Jhoom, Abida Parveen & Naseebo Lal, 290
+30 Bekhayali, Sachet Tandon, 299
+31 Chal Dil Mere, Ali Zafar, 202
+32 Madhaniyan, Zeb Bangash, 299
+33 Madhaniyan, Zeb Bangash, 353
+34 Tajdar-e-Haram, Atif Aslam, 227
+35 Chal Dil Mere, Ali Zafar, 223
+36 Sajni, Strings, 215
+37 Chal Dil Mere, Ali Zafar, 280
+38 Dil Diyan Gallan, Atif Aslam, 237
+39 Garaj Baras, Ali Azmat & Rahat Fateh Ali Khan, 210
+40 Na Re Na, Ali Azmat, 313
+41 Peechay Hutt, Hasan Raheem & Justin Bibis, 307
+42 Madhaniyan, Zeb Bangash, 268
+43 Roiyaan, Farhan Saeed, 321
+44 Udd Gaye, Ritviz, 254
+45 Kahani Suno, Kaifi Khalil, 333
+46 Na Re Na, Ali Azmat, 252
+47 Roiyaan, Farhan Saeed, 292
+48 Tu Jhoom, Abida Parveen & Naseebo Lal, 340
+49 Bikhra Hoon Main, Jal, 311
+50 Madhaniyan, Zeb Bangash, 326
+51 Peechay Hutt, Hasan Raheem & Justin Bibis, 195
+52 Garaj Baras, Ali Azmat & Rahat Fateh Ali Khan, 284
+53 Madhaniyan, Zeb Bangash, 267
+54 Sajni, Strings, 269
+55 Tajdar-e-Haram, Atif Aslam, 241
+56 Pasoori, Ali Sethi & Shae Gill, 266
+57 Peechay Hutt, Hasan Raheem & Justin Bibis, 253
+58 Roiyaan, Farhan Saeed, 314
+59 Roiyaan, Farhan Saeed, 333
+60 Sayonnee, Junoon, 360
+61 Baari, Bilal Saeed & Momina Mustehsan, 306
+62 Chal Dil Mere, Ali Zafar, 292
+63 Peechay Hutt, Hasan Raheem & Justin Bibis, 301
+64 Bikhra Hoon Main, Jal, 191
+65 Roiyaan, Farhan Saeed, 198
+66 Roiyaan, Farhan Saeed, 196
+67 Baari, Bilal Saeed & Momina Mustehsan, 327
+68 Garaj Baras, Ali Azmat & Rahat Fateh Ali Khan, 313
+69 Tu Jhoom, Abida Parveen & Naseebo Lal, 198
+70 Chal Dil Mere, Ali Zafar, 295
+71 Madhaniyan, Zeb Bangash, 227
+72 Udd Gaye, Ritviz, 209
+73 Udd Gaye, Ritviz, 274
+74 Udd Gaye, Ritviz, 278
+75 Sayonnee, Junoon, 343
+76 Cheap Thrills, Sia, 331
+77 Bad Guy, Billie Eilish, 230
+78 Believer, Imagine Dragons, 197
+79 Cheap Thrills, Sia, 187
+80 Happier, Marshmello ft. Bastille, 327
+81 Blinding Lights, The Weeknd, 288
+82 Faded, Alan Walker, 254
+83 Bohemian Rhapsody, Queen, 232
+84 Counting Stars, OneRepublic, 242
+85 Faded, Alan Walker, 289
+86 Senorita, Shawn Mendes & Camila Cabello, 204
+87 Let Her Go, Passenger, 240
+88 Shape of You, Ed Sheeran, 317
+89 Senorita, Shawn Mendes & Camila Cabello, 233
+90 Counting Stars, OneRepublic, 242
+91 Faded, Alan Walker, 217
+92 Photograph, Ed Sheeran, 242
+93 Bad Guy, Billie Eilish, 295
+94 Memories, Maroon 5, 217
+95 Bad Guy, Billie Eilish, 213
+96 Photograph, Ed Sheeran, 252
+97 Photograph, Ed Sheeran, 219
+98 Thunder, Imagine Dragons, 294
+99 Cheap Thrills, Sia, 274
+100 Happier, Marshmello ft. Bastille, 221
+101 Let Her Go, Passenger, 359
+102 Let Her Go, Passenger, 314
+103 Perfect, Ed Sheeran, 360
+104 Counting Stars, OneRepublic, 228
+105 Shape of You, Ed Sheeran, 328
+106 Memories, Maroon 5, 355
+107 Bohemian Rhapsody, Queen, 264
+108 Levitating, Dua Lipa, 339
+109 Bohemian Rhapsody, Queen, 245
+110 Memories, Maroon 5, 261
+111 Photograph, Ed Sheeran, 262
+112 Levitating, Dua Lipa, 282
+113 Blinding Lights, The Weeknd, 251
+114 Uptown Funk, Bruno Mars, 261
+115 Memories, Maroon 5, 190
+116 Stay, The Kid LAROI & Justin Bieber, 339
+117 Memories, Maroon 5, 273
+118 Photograph, Ed Sheeran, 260
+119 Believer, Imagine Dragons, 353
+120 Memories, Maroon 5, 251
+121 Stay, The Kid LAROI & Justin Bieber, 302
+122 Faded, Alan Walker, 197
+123 Stay, The Kid LAROI & Justin Bieber, 275
+124 Cheap Thrills, Sia, 303
+125 Perfect, Ed Sheeran, 181
+126 Senorita, Shawn Mendes & Camila Cabello, 305
+127 Stay, The Kid LAROI & Justin Bieber, 246
+128 Photograph, Ed Sheeran, 187
+129 Counting Stars, OneRepublic, 307
+130 Bad Guy, Billie Eilish, 304
+131 Bad Guy, Billie Eilish, 208
+132 Senorita, Shawn Mendes & Camila Cabello, 271
+133 Thunder, Imagine Dragons, 348
+134 Bohemian Rhapsody, Queen, 208
+135 Photograph, Ed Sheeran, 190
+136 Stay, The Kid LAROI & Justin Bieber, 299
+137 Levitating, Dua Lipa, 183
+138 See You Again, Wiz Khalifa ft. Charlie Puth, 294
+139 Stay, The Kid LAROI & Justin Bieber, 248
+140 Senorita, Shawn Mendes & Camila Cabello, 216
+141 Happier, Marshmello ft. Bastille, 246
+142 Cheap Thrills, Sia, 299
+143 Let Her Go, Passenger, 313
+144 Happier, Marshmello ft. Bastille, 276
+145 Happier, Marshmello ft. Bastille, 254
+146 Uptown Funk, Bruno Mars, 235
+147 Let Her Go, Passenger, 212
+148 Thunder, Imagine Dragons, 225
+149 Levitating, Dua Lipa, 288
+150 Levitating, Dua Lipa, 206
